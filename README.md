@@ -1,7 +1,7 @@
-[序章](#序章)
-[笼中鸟](https://github.com/gududexunli/Devil-Poetry#%E7%AC%BC%E4%B8%AD%E9%B8%9F)
-[创始者](https://github.com/gududexunli/Devil-Poetry#%E5%88%9B%E4%B8%96%E8%80%85)
-[噩梦](https://github.com/gududexunli/Devil-Poetry#%E5%99%A9%E6%A2%A6)
+[《序章》](#序章)  
+[《笼中鸟》](#笼中鸟)  
+[《创世者》](#创世者)  
+[《噩梦》](#噩梦)  
 #  《亮仔诗歌集》
 ## 序章
 > 我曾因为梦境太过美好  
